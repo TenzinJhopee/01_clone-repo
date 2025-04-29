@@ -25,7 +25,7 @@ Les objectifs de cet exercice sont :
 
 ## Résultat attendu
 
-Une fois le programme correctement compilé et exécuté, vous devriez voir le message suivant s'afficher dans votre terminal:
+Une fois le programme correctement compilé et exécuté, vous devriez voir le message suivant s'afficher dans votre terminal:,
 
 ```
 Hello, World!
